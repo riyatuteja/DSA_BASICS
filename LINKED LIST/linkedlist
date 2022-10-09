@@ -1,0 +1,14 @@
+LINKED LIST- is a linear data structure which stores list of values
+           - works similar to array
+           - multiple blocks of memory linked to each other
+           - size can be modified
+           - non-contiguous memory 
+           - insertion & deletion at any pointer easier
+        HEAD]
+           1->2->3->4->NULL
+ARRAY - single block of memory with partitions
+      - fixed size
+      - contiguous block of memory
+      - insertion and deletion is costly 
+
+                 
